@@ -1,2 +1,1 @@
-# Computer-System-Security
-This repo is about the computer system security course
+﻿﻿﻿﻿# Computer-System-SecurityThis repo is about the computer system security courseIn reality,this repo is a whole lab about the computer system security.- **The first part is about file permissions management and building virtual environment in linux system.**- **second part is about capability's setting.**- **third part is about database security.**- **forth part is aim to designing and implement a integrity access control system.(e.g Bank)**
